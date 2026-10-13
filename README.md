@@ -11,7 +11,6 @@
 [![TypeScript strict](https://img.shields.io/badge/TypeScript-strict-3178c6?style=flat-square&logo=typescript&logoColor=white)](tsconfig.json)
 [![Vite](https://img.shields.io/badge/Vite-5-646cff?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
 [![Supabase](https://img.shields.io/badge/Supabase-realtime-3ecf8e?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
-[![Built with Claude Code](https://img.shields.io/badge/built_with-Claude_Code-d97757?style=flat-square)](https://claude.com/claude-code)
 
 **[Feature tour](docs/FEATURE_SHOWCASE.md) · [Groups & invites](docs/GROUPS.md) · [Everything it does](FEATURES.md)**
 
@@ -45,7 +44,7 @@ A calendar is a grid, and your plans are not. Some weeks are empty, some days ar
 
 It started as a calendar for two people and grew into something any group can use: **couples, families, flatmates, friends, small teams**. Everybody sees everybody's cursor, plans are colour-coded by owner, and one link invites the next person in.
 
-Built end-to-end with [Claude Code](https://claude.com/claude-code) as an experiment in how far one person can take a real product with an AI pair-programmer — from the first sketch to a real-time, multi-user app with auth, row-level security and a deploy pipeline.
+Built with AI assistance: I did not write the code by hand. My role was to orchestrate it — define what I needed, test every feature and ask for changes until it worked the way I wanted.
 
 > The interface is in **Spanish** (and ships with Argentine public holidays). Everything is data-driven, so adding a locale is mostly translating strings and swapping `public/feriados/*.json`.
 
@@ -194,7 +193,7 @@ Touch drag and pinch-zoom are implemented and the interface scales with the view
 <details>
 <summary><b>How much of this was written by AI?</b></summary>
 
-Most of the code was written by Claude Code, guided step by step: the product decisions, the reviews, the testing in a real browser and the "no, not like that" were human. The history is a single squashed commit on purpose; the interesting part is the result and the [architecture notes](#how-it-works).
+All of the code was written by an AI. My role was that of an orchestrator: defining what the app had to do, testing it in a real browser and requesting changes until it worked as I wanted. You don't need to know how to code to build a tool like this, but you do need clear ideas and concepts from the user's side. The history is a single squashed commit on purpose; the interesting part is the result and the [architecture notes](#how-it-works).
 </details>
 
 ## Documentation

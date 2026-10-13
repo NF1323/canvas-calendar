@@ -59,7 +59,7 @@ Lo que tiene adentro:
 🔁 Planes recurrentes, de varios días y con portadas
 🔒 Seguridad a nivel de fila en Postgres
 
-Lo que más me sorprendió trabajando con Claude Code:
+Lo que más me sorprendió trabajando con una IA:
 → La IA ejecuta muy bien; el valor está en decidir qué construir y cuándo decir "así no".
 → Iterar en lenguaje natural acelera todo, pero cada cambio hay que probarlo en un navegador real.
 → Pedirle que mida rendimiento y que audite la seguridad funcionó mejor que "hacelo más rápido".
@@ -68,7 +68,7 @@ Código abierto, con modo demo sin registro. Link en el primer comentario 👇
 
 ¿Qué calendario (o herramienta) que usás hoy te gustaría ver como un canvas?
 
-#ClaudeCode #IA #React #TypeScript #Supabase
+#IA #React #TypeScript #Supabase
 
 **Primer comentario**
 > 🔗 Repo: https://github.com/NF1323/canvas-calendar
@@ -93,7 +93,7 @@ Inside:
 🔁 Recurring and multi-day plans with cover images
 🔒 Row-level security in Postgres
 
-What surprised me most working with Claude Code:
+What surprised me most working with an AI:
 → AI is great at execution; the value is deciding what to build and when to say "not like that".
 → Iterating in plain language speeds everything up, but every change still needs testing in a real browser.
 → Asking it to measure performance and audit security worked better than "make it faster".
@@ -102,4 +102,4 @@ Open source, with a no-signup demo mode. Link in the first comment 👇
 
 Which calendar (or tool) you use today would you like to see as a canvas?
 
-#ClaudeCode #AI #React #TypeScript #Supabase
+#AI #React #TypeScript #Supabase
